@@ -1,1 +1,1 @@
-# python_logging_lib
+# Логирование данных в python
